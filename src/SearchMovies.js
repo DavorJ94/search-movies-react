@@ -22,7 +22,7 @@ function SearchMovies() {
     <div>
       <form className="form" onSubmit={searchMovies}>
         <label htmlFor="query" className="label">
-          Movie name
+          Movie name:
         </label>
         <input
           className="input"
