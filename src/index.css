@@ -131,4 +131,7 @@ small {
     text-align: left;
     column-gap: 2em;
   }
+  .card__img {
+    margin: 0;
+  }
 }
